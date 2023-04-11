@@ -1,2 +1,2 @@
-prompt(document.domain)
-alert(document.domain)
+prompt(document.domain);
+alert(document.domain);
