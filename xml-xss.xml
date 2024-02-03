@@ -1,1 +1,1 @@
-<asd:script xmlns:something="http://www.w3.org/1999/xhtml">alert(document.domain)</asd:script>
+<asd:script xmlns:asd="http://www.w3.org/1999/xhtml">alert(123)</asd:script>
